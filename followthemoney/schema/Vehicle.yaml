@@ -22,6 +22,9 @@ Vehicle:
     registrationNumber:
       label: Registration number
       type: identifier
+    certificateNumber:
+      label: Certificate of registration number
+      type: identifier
     type:
       label: Type
     model:
